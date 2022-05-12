@@ -1,1 +1,2 @@
-# catalog-cart_vue.js
+Course: Advanced JavaScript, GeekBrains University
+Final project (catalog/cart)
